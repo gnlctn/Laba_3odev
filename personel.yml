@@ -1,0 +1,37 @@
+Personel:
+  Person1:
+    name: "Gonul"
+    surname: "Cetin"
+    age: 29
+    address:
+      city: "Antalya"
+      street: 25
+      no: 4
+    contact:
+      mail: "gnltest@gmail.com"
+      telefon: "+905558761325"
+    department: "IT"
+  Person2:
+    name: "Ali"
+    surname: "Koc"
+    age: 25
+    address:
+      city: "Kars"
+      street: 1128
+      no: 50
+    contact:
+      mail: "alitest@gmail.com"
+      telefon: "+905558761326"
+    department: "IT"
+  Person3:
+    name: "Zeynep"
+    surname: "Balık"
+    age: 34
+    address:
+      city: "İzmir"
+      street: 6542
+      no: 37
+    contact:
+      mail: "zeynotest@gmail.com"
+      telefon: "+905558761327"
+    department: "HR"
